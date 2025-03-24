@@ -12,9 +12,9 @@
 		</Description>
 		<ApplicationIcon>letter-r.ico</ApplicationIcon>
 		<PackageReadmeFile>readme.md</PackageReadmeFile>
-		<RepositoryUrl>https://github.com/BrylyMaeder/RedisSharp/</RepositoryUrl>
+		<RepositoryUrl>https://github.com/BrylyMaeder/RedisSharpIdentity/</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<PackageProjectUrl>https://github.com/BrylyMaeder/RedisSharp/</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/BrylyMaeder/RedisSharpIdentity/</PackageProjectUrl>
 		<PackageTags>Redis, Csharp, Sharp, Query, Search, Linq, Fast</PackageTags>
 		<PackageReleaseNotes>RedisSharpIdentity implements RedisSharp</PackageReleaseNotes>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
