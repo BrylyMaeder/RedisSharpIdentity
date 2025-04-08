@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	
 	<PropertyGroup>
-		<AssemblyVersion>1.0.3</AssemblyVersion>
+		<AssemblyVersion>1.0.5</AssemblyVersion>
 		<FileVersion>$(AssemblyVersion)</FileVersion>
 		<Version>$(AssemblyVersion)</Version>
 		<TargetFramework>net9.0</TargetFramework>
@@ -44,7 +44,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="9.0.3" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.3" />
     <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="9.0.3" />
-    <PackageReference Include="Redis.Sharp" Version="1.0.3" />
+    <PackageReference Include="Redis.Sharp" Version="1.0.5" />
   </ItemGroup>
 
   <ItemGroup>
